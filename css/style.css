@@ -1,0 +1,9 @@
+html,body, #myGlobalContainer {
+   height:100%;
+    background-image: url("../images/league-of-legends.jpg");
+    background-size: cover;
+}
+
+.h1,.h3{
+    color: black;
+}
